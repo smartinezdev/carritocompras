@@ -1,0 +1,17 @@
+.color-fondo {
+    background-color: #219F94;
+}
+
+.card {
+    box-shadow: 0px 0px 20px #fff;
+}
+
+h2 {
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+li {
+    box-shadow: 0px 0px 20px #fff;
+}
